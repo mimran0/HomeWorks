@@ -51,7 +51,7 @@ public class StringImran {
 		//20 returns the class name
 		System.out.println(Imran.getClass());
 		
-		System.out.println("Checking how github acts if I add this line of code in this file")
+		System.out.println("Checking how github acts if I add this line of code in this file");
 		
 		
 	}
